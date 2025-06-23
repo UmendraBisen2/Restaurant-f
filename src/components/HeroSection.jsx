@@ -8,6 +8,8 @@ const HeroSection = () => {
       <div className="container">
         <div className="banner">
           <div className="largeBox">
+              <h1>Welcome To Royal Taste</h1>
+               
                   <h1 className="title">Good Food Good Mood</h1>
           <h1 className="title">Delicious</h1>
           </div>
@@ -17,7 +19,7 @@ const HeroSection = () => {
             </div>
             <div className="textAndLogo">
               <div className="textWithSvg">
-                <h1 className="title">Food</h1>
+{/*                 <h1 className="title">Food</h1> */}
                 <h1 className="title dishes_title">Dishes</h1>
                 <img src="./threelines.svg" alt="threelines" />
               </div>

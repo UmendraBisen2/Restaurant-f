@@ -8,9 +8,11 @@ const HeroSection = () => {
       <div className="container">
         <div className="banner">
           <div className="largeBox">
-              <h1>Welcome To Royal Taste</h1>
-               
-                  <h1 className="title">Good Food Good Mood</h1>
+{/*               <h1>Welcome To Royal Taste</h1> */}
+                      <h1 className="title">Welcome </h1>
+                  <h1 className="title">Good Food </h1>
+             
+                  <h1 className="title">Good Mood </h1>
           <h1 className="title">Delicious</h1>
           </div>
           <div className="combined_boxes">
@@ -25,7 +27,7 @@ const HeroSection = () => {
               </div>
 {/*               <img className="logo" src="logo.svg" alt="logo" />Royal.png */}
 {/*                          <img className="logo" src="Royal.png" alt="logo" /> */}
-  <h1>Welcome To Royal Taste</h1>
+  // <h1>Welcome To Royal Taste</h1>
             </div>
           </div>
         </div>

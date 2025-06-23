@@ -22,7 +22,8 @@ const HeroSection = () => {
                 <img src="./threelines.svg" alt="threelines" />
               </div>
 {/*               <img className="logo" src="logo.svg" alt="logo" />Royal.png */}
-                         <img className="logo" src="Royal.png" alt="logo" />
+{/*                          <img className="logo" src="Royal.png" alt="logo" /> */}
+  <h1>Welcome To Royal Taste</h1>
             </div>
           </div>
         </div>
